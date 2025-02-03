@@ -1,24 +1,25 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
 }
 
 h1 {
     color:darkslategray;
 }
 
-#about {
+.about {
     background-color: darkgreen;
 }
 
-#skills {
-
+.skills {
+    background-color: darkgreen;
 }
 
-#projects {
-
+.projects {
+    background-color: darkgreen;
 }
 
-#contact {
-
+.contact {
+    background-color: darkgreen;
 }
